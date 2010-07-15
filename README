@@ -1,0 +1,7 @@
+this is the template engine written by jeresig but improved to work with chrome and safari as well.
+
+the original code can be found here http://github.com/jquery/jquery-tmpl
+
+probably it will be part of jquery 1.5 core, but for now, this small piece of code works fine.
+
+
